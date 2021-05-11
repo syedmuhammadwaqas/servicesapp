@@ -14,7 +14,7 @@
                "status": 1,
                "approval_status": "",
                "created_at": "",
-               "mobile": "",
+               "mobile": "+923214847187",
                "gender": "",
                "city": "",
                "country": "",
@@ -112,6 +112,14 @@
                "i_card": "",
                "country_code": ""
           }
+     ],
+     "phone_verification":[
+          {
+          "id": 1,
+          "phone_no":"+923214847187",
+          "code":"1234",
+          "created_at":"",
+     }
      ],
      "categories":[
           {
