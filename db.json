@@ -112,5 +112,15 @@
                "i_card": "",
                "country_code": ""
           }
+     ],
+     "categories":[
+          {
+          "id": 1,
+          "category_name":"Electricians",
+          "image":"image.png",
+          "status":1,
+          "created_at":"",
+          "updated_at":"",
+     }
      ]
 }
