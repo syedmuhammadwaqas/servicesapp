@@ -122,5 +122,15 @@
           "created_at":"",
           "updated_at":""
      }
+     ],
+     "subcategories":[
+          {
+          "id": 1,
+          "subcategory_name":"AC",
+          "category_id":1,
+          "status":1,
+          "created_at":"",
+          "updated_at":""
+     }
      ]
 }
