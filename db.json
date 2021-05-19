@@ -160,26 +160,6 @@
           "created_at":"",
           "updated_at":""
      }
-     ],
-      "rating":[
-          {
-          "id": 1,
-          "receiverid":3,
-          "senderid":4,
-          "rating":5,
-          "comment":"Good Job",
-          "jobid":"4XV2IWT5UY76",
-          "created_at":""
-     }, {
-          "id": 2,
-          "receiverid":4,
-          "senderid":3,
-          "rating":5,
-          "comment":"Good Job",
-          "jobid":"4XV2IWT5UY76",
-          "created_at":""
-     }
-
      ]
      
 }
